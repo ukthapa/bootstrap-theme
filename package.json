@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-theme",
+  "version": "1.0.0",
+  "description": "Gulp task for bootstrap theme development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukthapa/bootstrap-theme.git"
+  },
+  "author": "Uttam Kumar Thapa (ukthapa@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukthapa/bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/ukthapa/bootstrap-theme#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-notify": "^3.0.0",
+    "gulp-ruby-sass": "^2.1.1"
+  }
+}
